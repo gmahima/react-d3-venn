@@ -5,7 +5,7 @@ import * as venn from "venn.js";
 
 var sets = [
   {
-    size: 4,
+    size: 0,
     sets: ["A", "B", "C"]
   },
   {
