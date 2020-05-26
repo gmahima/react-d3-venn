@@ -5,11 +5,11 @@ import * as venn from "venn.js";
 
 var sets = [
   {
-    size: 0,
+    size: 5,
     sets: ["A", "B", "C"]
   },
   {
-    size: 5,
+    size: 10,
     sets: ["B", "C"]
   },
   {
@@ -21,7 +21,7 @@ var sets = [
     sets: ["C", "A"]
   },
   {
-    size: 20,
+    size: 50,
     sets: ["B"]
   },
   {
@@ -29,7 +29,7 @@ var sets = [
     sets: ["C"]
   },
   {
-    size: 50,
+    size: 100,
     sets: ["A"]
   }
 ];
