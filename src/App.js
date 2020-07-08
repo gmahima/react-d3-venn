@@ -121,6 +121,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
+        <h1>React-d3 venn</h1>
       <div ref="chart">
         {/* <div className="venntooltip" ref="tooltip"></div> */}
       </div>
