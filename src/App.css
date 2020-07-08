@@ -2,6 +2,14 @@
   text-align: center;
   
 }
+.container{ 
+  height: 100vh;
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
 
 .App-logo {
   height: 40vmin;

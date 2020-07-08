@@ -120,8 +120,10 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="App" ref="chart">
+      <div className="container">
+      <div ref="chart">
         {/* <div className="venntooltip" ref="tooltip"></div> */}
+      </div>
       </div>
     );
   }
